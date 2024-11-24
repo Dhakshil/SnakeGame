@@ -15,11 +15,10 @@ The game involves controlling a snake to eat food and grow longer while avoiding
 Note: Ensure you have Python 3 installed. The game uses the turtle module, which is included in the Python standard library.
 
 Usage
-Run the game by executing the main.py file:
-
+- Run the game by executing the main.py file:
   ```bash
   python main.py
-
+---
 Use the arrow keys to control the snake:
 
 Up Arrow: Move up
